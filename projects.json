@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Eric",
+        "live": "random URL",
+        "image": "somestring.jpg"
+    },
+    {
+        "name": "Nori",
+        "live": "a different URL",
+        "image": "anotherstring.jpg"
+    }
+]
